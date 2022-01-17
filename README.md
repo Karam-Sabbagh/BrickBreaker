@@ -2,4 +2,4 @@
 BrickBreaker is a game made with Python using tkinter. And your goal is to Break all of The Bricks at the top of the window before the time left is over, 
 you can move the paddle that's at the bottom of the window by pressing left or right arrows.
 
-for playing the game you can download the .py file if you want to look at my code.
+for playing the game you can download the files and just launch the exe file.
